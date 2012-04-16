@@ -1,0 +1,27 @@
+{
+    "name": "nowjs-openlayers",
+    "version": "0.0.1",
+    "description": "openlayers 3 over nowjs",
+    "homepage": "https://github.com/santiago/nowjs-openlayers",
+    "keywords": ["openlayers", "node", "nowjs"],
+    "author": {
+        "name": "Santiago GL",
+        "email": "sgaviria@gmail.com"
+    },
+    "bugs": {
+        "web": "https://github.com/santiago/nowjs-openlayers/issues"
+    },
+    "licenses": [],
+    "engines" : {
+        "node": ">=0.4.5"
+    },
+    "scripts": {
+        "start": "node server.js",
+        "install": ""
+    },
+    "repository": "git@github.com:santiago/nowjs-openlayers.git",
+    "dependencies": {
+        "express": "2.5.9",
+        "stylus": "0.25.0"
+    }
+}

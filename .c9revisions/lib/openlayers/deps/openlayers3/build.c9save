@@ -1,0 +1,1 @@
+{"revisions":[],"originalContent":"# This build config is supposed to be used for the units tests with \"mode=build\"\n\n[first]\nmockdom.js\n[last]\nnode.js\n\n[include]\n\n[exclude]\nOpenLayers.js\nFirebug/firebug.js\n"}
